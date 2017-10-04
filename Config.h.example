@@ -1,0 +1,12 @@
+#pragma once
+
+#define LOG_LEVEL 1 // info
+#define SLEEP_INTERVAL (60L * 10L) // sleep for 10 minutes
+#define WIFI_SSID "your_ssid"
+#define WIFI_PASSWORD "your_password"
+#define STATSD_HOST "your.statsd.host"
+#define STATSD_PORT 8125
+#define STATSD_METRIC "weather.some_location"
+#define UPDATE_URL "http://your.updater.host/weather"
+
+// vim: ft=c

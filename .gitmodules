@@ -1,0 +1,6 @@
+[submodule "BME280"]
+	path = BME280
+	url = https://github.com/embeddedadventures/BME280.git
+[submodule "utils"]
+	path = utils
+	url = git@github.com:jreinert/esp_utils
